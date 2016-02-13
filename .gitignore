@@ -1,0 +1,8 @@
+TrafficClassifier/bin/*
+TrafficClassifier/output/*
+WekaUnsupervised/bin/*
+WekaUnsupervised/output/*
+WekaUnsupervised/.classpath
+WekaUnsupervised/.project
+WekaUnsupervised/.settings
+
